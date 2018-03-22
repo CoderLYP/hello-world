@@ -1,4 +1,7 @@
 # hello-world
 Just a new repository
 
-Hi Human!
+I am Kobe, nice to meet you!
+hahahahaha
+
+
